@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11.9"
-dependencies = []
+dependencies = [
+    "matplotlib>=3.10.8",
+    "pandas>=3.0.1",
+    "pyarrow>=23.0.1",
+    "regex>=2026.2.28",
+]
