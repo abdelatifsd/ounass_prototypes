@@ -28,16 +28,18 @@ All final work lives under `final/`. Each subdirectory contains Jupyter notebook
 
 | File | Description |
 |------|-------------|
-| `Part 1 - Data Understanding & Diagnostics.ipynb` | EDA and data quality |
-| `Part 2 - Modeling Task (Core).ipynb` | Model development |
-| `Part 3 - Search System Design.pdf` | System design document |
-| `Part 4 - Evaluation & Experimentation.pdf` | Evaluation framework |
+| `Part 1 - Data Understanding & Diagnostics.ipynb` | Data understanding and diagnostics (Q1–Q4) |
+| `Part 2 - Modeling Task (Core).ipynb` | Core modeling task (Q1–Q3) |
+| `Part 3 - Search System Design.pdf` | Search system redesign document |
+| `Part 4 - Evaluation & Experimentation.pdf` | Evaluation and experimentation framework |
 | `Ounass_Search_CaseStudy.pdf` | Presentation |
 
 **Forecasting**
 
 | File | Description |
 |------|-------------|
-| `Part 1 - Data Understanding.ipynb` | EDA and data quality |
-| `Part 2 & 3 - Forecasting and Evaluation.ipynb` | Model development and evaluation |
-| PDFs | Exported versions of the above notebooks |
+| `Part 1 - Data Understanding.ipynb` | Data understanding, analysis, and structuring (Q1–Q3) |
+| `Part 1 - Data Understanding.pdf` | Organized write-up of data understanding, analysis, and structuring |
+| `Part 2 & 3 - Forecasting and Evaluation.ipynb` | Forecasting and evaluation |
+| `Part 2 & 3 - Forecasting and Evaluation.pdf` | Organized write-up of forecasting and evaluation |
+
