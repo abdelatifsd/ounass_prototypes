@@ -42,4 +42,6 @@ All final work lives under `final/`. Each subdirectory contains Jupyter notebook
 | `Part 1 - Data Understanding.pdf` | Organized write-up of data understanding, analysis, and structuring |
 | `Part 2 & 3 - Forecasting and Evaluation.ipynb` | Forecasting and evaluation |
 | `Part 2 & 3 - Forecasting and Evaluation.pdf` | Organized write-up of forecasting and evaluation |
+| `OTB_Revenue_Forecasting.pdf` | Presentation |
+
 
