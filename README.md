@@ -21,8 +21,13 @@ data/
 ```
 
 ## Loom presentation walk-throughs:
-Forecasting: https://www.loom.com/share/4e837137a3ca4f719f6b35c9afb9b91e
-Search: https://www.loom.com/share/f1ee8fc26f6149a7bfe82774c866d80a
+
+Forecasting: 
+
+https://www.loom.com/share/4e837137a3ca4f719f6b35c9afb9b91e
+Search:
+
+https://www.loom.com/share/f1ee8fc26f6149a7bfe82774c866d80a
 
 ## Deliverables
 
