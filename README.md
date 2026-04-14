@@ -1,4 +1,4 @@
-# Ounass - Senior Data Scientist Case Study
+# Senior Data Scientist Case Study
 
 ## Setup
 
